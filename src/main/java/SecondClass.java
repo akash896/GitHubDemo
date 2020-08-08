@@ -3,5 +3,6 @@ public class SecondClass {
         System.out.println("seond");
         /*hfdhdsgfjdsgf*/
         System.out.println("third");
+        System.out.println("added line from 2nd person");
     }
 }
