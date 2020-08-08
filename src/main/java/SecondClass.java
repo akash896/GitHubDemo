@@ -4,5 +4,6 @@ public class SecondClass {
         /*hfdhdsgfjdsgf*/
         System.out.println("third");
         System.out.println("added line from 1st person ");
+        System.out.println("added line from 2nd person");
     }
 }
